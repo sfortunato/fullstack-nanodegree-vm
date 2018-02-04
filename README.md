@@ -20,3 +20,4 @@ to launch vm:
 Ensure that you're in vagrant directory before adding/editing/deleting (one folder down from README, no need to go into deeper vagrant dirs)
 
 CRUD via sqlalchemy
+extensive use of HTTP Base Server python library 
